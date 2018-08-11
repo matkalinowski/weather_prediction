@@ -1,0 +1,18 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/.ipynb_checkpoints/
+
+# Notebooks
+Pogoda.ipynb
+Weather iterative corr-Copy1.ipynb
+
+# Folders
+data/*
+
+# Other (files)
+/results/basic_animation.mp4
+/results/aviable_lat_long_groups.pkl
+
